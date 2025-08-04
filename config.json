@@ -1,0 +1,27 @@
+{
+  "mail_address": "mtmaru_pee@yahoo.co.jp",
+  "password": "FQ3uy3iR2EaTGVa",
+  "output_directory": "C:/Users/michika/Desktop/日本株分析/data",
+  "api_settings": {
+    "base_url": "https://api.jquants.com/v1",
+    "rate_limit_delay": 0.1,
+    "retry_attempts": 3
+  },
+  "data_processing": {
+    "skip_weekends": true,
+    "include_adjustment_data": true,
+    "default_encoding": "utf-8-sig",
+    "use_compression": false
+  },
+  "notification": {
+    "line_enabled": true,
+    "line_channel_access_token": "TazOMSNH7fvYhQ4NfZ1GCGtTR0GqGh5+GZv09qpT7uUJng+JirdFoxgqEJip4zpaNs3hjOglc89I2Ic3cPZFcA3T0XmKUflg6KaL1oS4qKvIMiWghNFDYQd4A1hLBvjLHVBoWu5jrLD9SWPVZEPg7gdB04t89/1O/w1cDnyilFU=",
+    "line_user_id": "Uc375bbdcab769d83b110436eb6b8afbe",
+    "notify_no_changes": false,
+    "notification_schedule": {
+      "enabled": true,
+      "time": "09:00",
+      "weekdays_only": true
+    }
+  }
+}
